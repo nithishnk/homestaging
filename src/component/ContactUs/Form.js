@@ -14,11 +14,7 @@ export default class header extends Component {
                       </div>
 </div>
                         <div className="col-md-2">
-                        <p>"Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt
-                         ut labore et dolore magna aliqua. 
-                         Ut enim ad minim veniam, </p>
+                        
                           </div>
 <div className="col-md-8 col-sm-12 signinparent">
 <form>

@@ -28,9 +28,9 @@ export default class HomeFooter extends Component {
 <ButtonToolbar>
                           <Button href="#">Request a consultation</Button>
                           </ButtonToolbar>
-                          <i class="fab fa-facebook-f"></i>
-                          <i class="fab fa-instagram"></i>
-                          <i class="far fa-envelope-open fa-lg"></i>
+                          <a href="https://www.facebook.com/FinesseInteriorsStaging/"><i class="fab fa-facebook-f"></i></a>
+                         <a href="https://www.instagram.com/finesse_interiors_staging/"> <i class="fab fa-instagram"></i></a>
+                         <a href="mailto:finesseinteriors@rogers.com"> <i class="far fa-envelope-open fa-lg"></i></a>
                           
             </div>
 
@@ -61,7 +61,7 @@ export default class HomeFooter extends Component {
             <div className="row mx-0">
 <div className="col-md-6">
             <ul >
-<li className="Text_footer_home_Contant-S">© 2015 deTheme. Quality WordPress Theme by Elite Author</li>
+<li className="Text_footer_home_Contant-S">©2019 finesseinteriors</li>
 </ul>
 </div>
 <div className="col-md-6">
