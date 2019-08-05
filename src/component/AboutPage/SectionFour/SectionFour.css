@@ -1,0 +1,26 @@
+.fourthsectionpara
+{
+font-size:20px;
+font-family: 'Open Sans';
+}
+.modifiedtext
+{
+	font-family: Montserrat;
+	font-weight:800;
+}
+@media only screen and (max-width:767px){
+.alignment
+{
+	    text-align: -webkit-center;
+}
+}
+.afterimage
+{
+	padding-top:300px;
+}
+@media only screen and (max-width:767px){
+	.afterimage
+{
+	padding-top:100px;
+}
+}
