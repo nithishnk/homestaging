@@ -8,7 +8,6 @@ return(
 <div className="aboutbackground">
 <div className="heading"  style={{color:"white"}}>
 <h1>ABOUT</h1>
-<h4>HOME/ABOUT</h4>
 </div>
 </div>
 </div>

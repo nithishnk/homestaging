@@ -11,7 +11,6 @@ export default class IndividualPortfolio extends Component {
 	<Banner/>
 	<SectionOne/>
 	<SectionTwo/>
-	<SectionThree/>
 	<Enquiry/>
 	</div>
 	)
